@@ -30,4 +30,4 @@ parse5              10
 
 ## license
 
-(MIT)[LICENSE.txt]
+[MIT](LICENSE.txt)
