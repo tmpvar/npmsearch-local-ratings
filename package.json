@@ -1,0 +1,12 @@
+{
+  "name": "npmsearch-local-ratings",
+  "version": "0.0.0",
+  "bin": {
+    "npmsearch-local-rating": "bin/ratings.js"
+  },
+  "description": "output a list of local dependencies sorted by npmsearch's rating",
+  "dependencies": {
+    "request": "^2.69.0",
+    "text-table": "^0.2.0"
+  }
+}
